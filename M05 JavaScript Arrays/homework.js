@@ -34,7 +34,7 @@ function incrementarPorUno(array) {
    // El arreglo recibido por parámetro contiene números.
    // Retornar un arreglo con los elementos incrementados en +1.
    // Tu código:
-   var nuevoArray = array.map((array) => { return array + 1 } );
+   var nuevoArray = array.map((num) => { return num + 1 } );
    return (nuevoArray) 
    
 }
